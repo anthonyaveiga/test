@@ -4,12 +4,7 @@ import java.util.Scanner;
 
 public class Ejercicio35 {
 
-	/* Anthony Aveiga
-	 * 35. Suponga que b [] es una matriz de 100 elementos, con todas las entradas
-	 * inicializadas en 0, y que a [] es una matriz de N elementos, cada uno de los
-	 * cuales es un número entero entre 0 y 99. ¿Cuál es el efecto del siguiente
-	 * ciclo? for (j = 0; j < N; j++) b[a[j]]++;
-	 */
+	
 
 	public static void inicializarMatriz(int[] array) {
 		for (int i = 0; i < array.length; i++) {
